@@ -1,2 +1,5 @@
-# semantic-release-hooks-distributor
-A hook for distributing build assets using go-semantic-release
+# hooks-distributor
+
+This plugins for [go-semantic-release]() helps to distribute build assets.
+
+
